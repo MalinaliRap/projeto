@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto Devlinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto Devlinks" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -36,7 +36,7 @@ O Devlinks é um projeto que mostra os jogos da Copa de 2022.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/7ibaTvvVK1ZyVYC0FccWR9/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?node-id=1%3A116&mode=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/7ibaTvvVK1ZyVYC0FccWR9/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?node-id=1%3A116&mode=dev>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
